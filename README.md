@@ -37,7 +37,8 @@ I have some rough ideas to start with, however there is certainly a lot of groun
 The proposal that has been laid out by Niko is very clear, and I believe we should use a website to fulfill it. While the
 idea of using an organization of repos to organize RFCs is interesting, I believe it still requires too much boilerplate
 and still takes away from achieving the simultaneous goals of 1) making it easier to see everything at a glance, and 2)
-doing so without burdening maintainers.
+doing so without burdening maintainers. Perhaps there is some way to combine these two ideas, or otherwise keep a website
+and repo representation of an RFC in sync.
 
 There have been proposals, and they're good to work from, but I'd like to implement a strawman just so we can test how it
 works in practice. Baseball bats not included.
